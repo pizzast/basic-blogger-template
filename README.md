@@ -1,6 +1,7 @@
 # Basic Blogger Template
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Documentation Status](https://readthedocs.org/projects/basic-blogger-template/badge/?version=latest)](http://basic-blogger-template.readthedocs.io/en/latest/?badge=latest)
+
 
 This is a basic and no css blogger template and seo optimized including open graph protocol, seo meta tags, schema, seo tittle tag.
 
