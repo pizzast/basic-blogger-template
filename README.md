@@ -1,5 +1,7 @@
 # Basic Blogger Template
 
+`[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)`
+
 This is a basic and no css blogger template and seo optimized including open graph protocol, seo meta tags, schema, seo tittle tag.
 
 ### Getting Started
@@ -22,8 +24,6 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ### Authors
 
 * **Agus Purwantoro** - *Initial work* - [meagusp](https://github.com/meagusp)
-
-See also the list of [contributors](CONTRIBUTOR.md) who participated in this project.
 
 ### License
 
