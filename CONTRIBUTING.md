@@ -36,7 +36,7 @@ include:
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
-* Showing empathy towards others community members
+* Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
