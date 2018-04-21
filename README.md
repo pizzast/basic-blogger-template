@@ -22,7 +22,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * HTML & CSS
 * XML
-* Javascript (optional, if you need your Blog more interractive you need a Javascript.
+* Javascript (optional, if you need your Blog more interractive you need a Javascript).
 
 ### Authors
 
