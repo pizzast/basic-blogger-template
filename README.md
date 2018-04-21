@@ -11,8 +11,8 @@ You just need a Google account and have a blog at Blogger to use this template.
 
 ### Debugging
 
-* [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool?hl=id).
-* [Open Graph Debugger](https://developers.facebook.com/tools/debug/).
+* [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool?hl=id)
+* [Open Graph Debugger](https://developers.facebook.com/tools/debug/)
 
 ### Contributing
 
@@ -26,7 +26,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ### Authors
 
-* Agus Purwantoro - *Initial work* - [meagusp](https://github.com/meagusp).
+* Agus Purwantoro - *Initial work* - [meagusp](https://github.com/meagusp)
 
 ### License
 
