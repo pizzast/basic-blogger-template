@@ -30,7 +30,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ### Authors
 
-* Agus Purwantoro - *Initial work* - [meagusp](https://github.com/meagusp)
+* Agus Purwantoro - [meagusp](https://github.com/meagusp)
 
 ### License
 
