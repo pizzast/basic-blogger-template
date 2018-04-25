@@ -1,7 +1,8 @@
 # Basic Blogger Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Documentation Status](https://readthedocs.org/projects/basic-blogger-template/badge/?version=latest)](http://basic-blogger-template.readthedocs.io/en/latest/?badge=latest) 
-[![Wercker](https://img.shields.io/wercker/ci/wercker/docs.svg)](https://github.com/meagusp/basic-blogger-template/)
+[![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/meagusp/basic-blogger-template/)
+
 
 
 
