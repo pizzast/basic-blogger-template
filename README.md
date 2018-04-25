@@ -7,7 +7,7 @@
 
 
 
-This is a basic markup and basic css blogger template this template is seo optimized including open graph protocol, seo meta tags, schema, seo tittle tag.
+This is a basic markup and no css blogger template this template is seo optimized including open graph protocol, seo meta tags, schema, seo tittle tag. You just need to focus design your blog.
 
 ### Getting Started
 
@@ -26,7 +26,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 * HTML & CSS
 * XML
-* Javascript (optional, if you need your Blog more interractive you need a Javascript).
+* Javascript & Jquery (optional, if you need your Blog more interractive you need a Javascript, Jquery).
 
 ### Authors
 
