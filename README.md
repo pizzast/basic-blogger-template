@@ -1,11 +1,7 @@
 # Basic Blogger Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Documentation Status](https://readthedocs.org/projects/basic-blogger-template/badge/?version=latest)](http://basic-blogger-template.readthedocs.io/en/latest/?badge=latest) 
-[![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/meagusp/basic-blogger-template/)
-
-
-
-
+[![Basic Blogger Template](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/meagusp/basic-blogger-template/)
 
 This is a basic markup and no css blogger template this template is seo optimized including open graph protocol, seo meta tags, schema, seo tittle tag. You just need to focus design your blog.
 
