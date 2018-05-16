@@ -5,9 +5,15 @@ Basic Blogger Template Documentation
       :width: 100px
       :align: right
 
+This documentation is for |template|.
+
+.. |template| raw:: html
+
+   <a href="https://github.com/meagusp/basic-blogger-template" target="_blank">basic Blogger Template</a>
+   
 Blogger template is a easy to code markup structure and design because blogger is have auto generated markup structure by default, but if you need a documentation here it's.
 
-This guide will help you to understand *blogger markup structure*, and *template section* this will help you to implement your design or features.
+This guide will help you to understand **blogger markup structure**, and **template section** this will help you to implement your design or adding a features.
 
 .. toctree::
    :maxdepth: 1
