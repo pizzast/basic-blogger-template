@@ -61,3 +61,9 @@ Donate |donate|.
 .. |donate| raw:: html
 
    <a href="http://paypal.me/meagusp" target="_blank">Here</a>
+   
+|license|
+
+.. |license| raw:: html
+
+   <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"/></a>
