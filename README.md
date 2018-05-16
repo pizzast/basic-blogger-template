@@ -14,6 +14,12 @@ You just need a Google account and have a blog at Blogger to use this template.
 * [Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool?hl=id)
 * [Open Graph Debugger](https://developers.facebook.com/tools/debug/)
 
+### Technologies
+
+* [Open Graph Protocol](http://ogp.me/)
+* [Schema](http://schema.org/)
+
+
 ### Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
