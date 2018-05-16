@@ -5,10 +5,16 @@ Basic Blogger Template Documentation
       :width: 100px
       :align: right
 
-Blogger template is a easy to coding markup and design because blogger is have auto generated markup structure by default, but if you need a documentation here it's.
+Blogger template is a easy to code markup structure and design because blogger is have auto generated markup structure by default, but if you need a documentation here it's.
 
-This guide will help you to understand blogger markup structure, this will help you to implement your design or features.
+This guide will help you to understand *blogger markup structure*, and *template section* this will help you to implement your design or features.
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Markup Structure
+
+   markupstructure
+   
 .. toctree::
    :maxdepth: 1
    :caption: Header Section
