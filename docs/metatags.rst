@@ -96,11 +96,11 @@ here it's::
 
 <meta expr:content='data:blog.pageName' property='og:title'/>
 <b:if cond='data:blog.postImageThumbnailUrl'>
-  <meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
+<meta expr:content='data:blog.postImageThumbnailUrl' property='og:image'/>
 </b:if>
 <meta expr:content='data:blog.title' property='og:title'/>
 <meta expr:content='data:blog.canonicalUrl' property='og:url'/>
 <b:if cond='data:blog.metaDescription'>
-  <meta expr:content='data:blog.metaDescription' property='og:description'/>
+<meta expr:content='data:blog.metaDescription' property='og:description'/>
 </b:if>
 
