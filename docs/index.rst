@@ -13,22 +13,26 @@ This guide will help you to understand blogger markup structure, this will help 
    :maxdepth: 1
    :caption: Header Section
 
-   choose
-   verify
+   metatags
+   styling
 
 .. toctree::
    :maxdepth: 1
    :caption: Article Section
 
-   burn
-   boot
+   blogposting
+   javascript
 
 .. toctree::
    :maxdepth: 1
    :caption: Sidebar Section
 
-   install
+   widget
 
 .. toctree::
    :maxdepth: 1
    :caption: Footer Section
+   
+   widget
+   
+   
