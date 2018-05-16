@@ -35,4 +35,12 @@ This guide will help you to understand blogger markup structure, this will help 
    
    widget
    
+   Please help us spread the word by share on social media.
    
+   Donate 
+   
+   This guide written by |credits|.
+
+.. |credits| raw:: html
+
+   <a href="http://aguspurwantoro.com" target="_blank">Agus Purwantoro</a>
