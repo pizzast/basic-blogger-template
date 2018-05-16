@@ -4,15 +4,6 @@
 <head>
 
 <!-- External Resources -->
-<!--<link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
-<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'/> -->
-
-<!-- Important Meta Tag -->
-<meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
-<meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
-<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
-<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
-<meta content='blogger' name='generator'/>
 
 <!-- Meta Tag For Blogger -->
 <link expr:href='data:blog.homepageUrl + &quot;favicon.ico&quot;' rel='icon' type='image/x-icon'/>
@@ -41,6 +32,9 @@
 <b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.url != data:blog.homepageUrl'><title><data:blog.pageTitle/> - All Post</title></b:if></b:if>
 
 <!-- SEO Meta Tag -->
+<meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+<meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
+<meta content='blogger' name='generator'/>
 <meta content='indonesian' name='language'/>
 <meta content='id' name='geo.country'/>
 <meta content='indonesia' name='geo.placename'/>
@@ -93,7 +87,7 @@ Name		: Basic Blogger Template
 Designer	: Agus Purwantoro
 Release		: April 2018
 Version		: 1.0
-License		: Free
+License		: MIT
 Email		: me@aguspurwantoro.com
 -----------------------------------------------
 Thanks to:
