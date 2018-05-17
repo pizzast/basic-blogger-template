@@ -3,6 +3,8 @@
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' xmlns:og='http://ogp.me/ns#'>
 <head>
 
+<link expr:href='data:blog.canonicalUrl' rel='canonical'/>
+
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script>
 <![endif]-->
@@ -66,6 +68,7 @@
 <meta content='aeiwi, alexa, alltheWeb, altavista, aol netfind, anzwers, canada, directhit, euroseek, excite, overture, go, google, hotbot. infomak, kanoodle, lycos, mastersite, national directory, northern light, searchit, simplesearch, Websmostlinked, webtop, what-u-seek, aol, yahoo, webcrawler, infoseek, excite, magellan, looksmart, bing, cnet, googlebot' name='search engines'/>
 
 <!-- Open Graph Meta Tags -->
+<meta content="" property="fb:app_id" />
 <b:if cond='data:blog.pageType == &quot;item&quot;'>
 <meta content='article' property='og:type'/>
 <meta expr:content='data:blog.title' property='og:site_name'/>
