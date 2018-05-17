@@ -15,14 +15,14 @@ I will make a example of this::
 <div id="wrapper">
 <header id="header-wrapper">
 </header>
-<nav id="navigation>
+<nav id="navigation">
 <ul>
 <li><a href="">Home</a></li>
 <li><a href="">About</a></li>
 </ul>
 </nav>
 <div class='clearfix'/>
-<section id="outer-wrapper>
+<section id="outer-wrapper">
 <article id="article-wrapper">
 </article>
 </section>
@@ -54,14 +54,14 @@ here it's::
 <b:widget id='Header1' locked='true' title='Basic Blogger Template (Header)' type='Header'></b:widget>
 </b:section>
 </header>
-<nav id="navigation>
+<nav id="navigation">
 <ul>
 <li><a href="">Home</a></li>
 <li><a href="">About</a></li>
 </ul>
 </nav>
 <div class='clearfix'/>
-<section id="outer-wrapper>
+<section id="outer-wrapper">
 <article id="article-wrapper">
 <b:section class='main' id='main'>
 <b:widget id='Blog1' locked='true' title='Blog Posting' type='Blog'></b:widget>
