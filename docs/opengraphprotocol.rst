@@ -178,4 +178,4 @@ Please test it by using Blogger template editor to see changes, if you want to d
 
 .. |sharedebugger| raw:: html
 
-   <a href="https://search.google.com/structured-data/testing-tool" target="_blank">Facebook Share Debugging</a>
+   <a href="https://search.google.com/structured-data/testing-tool" target="_blank">Facebook Share Debugger</a>
