@@ -20,6 +20,7 @@ This guide will help you to understand **blogger markup structure**, and **templ
    :caption: Markup Structure
 
    markupstructure
+   addingschemamarkup
    
 .. toctree::
    :maxdepth: 1
