@@ -17,6 +17,26 @@ At the previous guide the meta tags is
 
 This a good place to start but we need a **further optimization** including seo *title tags*, *seo meta tags*, *blogger optimized meta tags*, and *open graph meta tags*.
 
+Canonical Url
+~~~~~~~~~~~~~
+
+.. code:: xml
+
+  <link expr:href='data:blog.canonicalUrl' rel='canonical'/>
+
+Internet Explorer
+~~~~~~~~~~~~~~~~
+
+.. code:: xml
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script>
+  <![endif]-->
+  <meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+  <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+  <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/> 
+  <b:include data='blog' name='all-head-content'/>
+
 Blogger Optimized Meta Tags
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
