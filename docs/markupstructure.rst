@@ -30,14 +30,14 @@ It's easy to make a structure of your template, you just need a make website str
   <aside id='sidebar-wrapper'>
   </aside>
   <div class='clearfix'/>
-   <footer id='footer-wrapper'>
-   <footer class='footer-left'>
+  <footer id='footer-wrapper'>
+  <footer class='footer-left'>
    Copyright 	&#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
-   </footer>
-   <footer class='footer-right'>
+  </footer>
+  <footer class='footer-right'>
    Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
-   </footer>
-   </footer>
+  </footer>
+  </footer>
   </div>
   </body>
   </html>
@@ -183,14 +183,14 @@ Here for full template.
   <b:section class='sidebar' id='sidebar' showaddelement='yes'></b:section>
   </aside>
   <div class='clearfix'/>
-   <footer id='footer-wrapper'>
-   <footer class='footer-left'>
+  <footer id='footer-wrapper'>
+  <footer class='footer-left'>
    Copyright 	&#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
-   </footer>
-   <footer class='footer-right'>
+  </footer>
+  <footer class='footer-right'>
    Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
-   </footer>
-   </footer>
+  </footer>
+  </footer>
   </div>
   </body>
   </html>
