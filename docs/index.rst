@@ -11,9 +11,9 @@ This documentation is for |template|.
 
    <a href="https://github.com/meagusp/basic-blogger-template" target="_blank">Basic Blogger Template</a>
    
-Blogger template is a easy to code markup structure and design because blogger is have auto generated markup structure by default, but if you need a documentation here it's.
+Blogger template is a easy to code because blogger process xml markup by generating on main site element, but if you need a documentation here it's.
 
-This guide will help you to understand **blogger markup structure**, and **template section** this will help you to implement your design or adding a features.
+This guide will help you to understand to implement **blogger markup structure**, and **template layout section** this will help you to implement your design or adding more features.
 
 .. toctree::
    :maxdepth: 1
@@ -27,6 +27,7 @@ This guide will help you to understand **blogger markup structure**, and **templ
    :caption: Header Section
 
    metatags
+   opengraphprotocol
    styling
 
 .. toctree::
@@ -49,7 +50,7 @@ This guide will help you to understand **blogger markup structure**, and **templ
    widgetfooter
    
  
-Please help us spread the word by share on social media.
+Please help us spread the word by share to your friend.
    
 This guide written by |credits|.
 
