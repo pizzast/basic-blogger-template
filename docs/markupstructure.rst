@@ -115,8 +115,10 @@ Here for full template
   <title><data:blog.title/></title>
   
   <b:skin><![CDATA[
+  
   /* Variable definitions
   =======================
+  
   ]]></b:skin>
   
   <style type='text/css'>
