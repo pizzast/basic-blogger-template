@@ -32,10 +32,10 @@ It's easy to make a structure of your template, you just need a make website str
   <div class='clearfix'/>
   <footer id='footer-wrapper'>
   <footer class='footer-left'>
-   Copyright 	&#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
+  Copyright &#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
   </footer>
   <footer class='footer-right'>
-   Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
+  Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
   </footer>
   </footer>
   </div>
@@ -82,7 +82,7 @@ But, Blogger use XML to process, how do implement a HTML markup into XML markup?
   <footer id='footer-wrapper'>
   <b:section class='footer' id='footer' showaddelement='yes'/>
   <footer class='footer-left'>
-   Copyright 	&#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
+  Copyright &#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
   </footer>
   <footer class='footer-right'>
   Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
@@ -185,10 +185,10 @@ Here for full template.
   <div class='clearfix'/>
   <footer id='footer-wrapper'>
   <footer class='footer-left'>
-   Copyright 	&#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
+  Copyright &#169; &lt;script&gt;new Date().getFullYear()&gt;2010&amp;&amp;document.write(&quot;&quot;+new Date().getFullYear());&lt;/script&gt; <a href='/' rel='copyright'><data:blog.title/></a>
   </footer>
   <footer class='footer-right'>
-   Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
+  Design by <a href='https://www.aguspurwantoro.com/' target='_blank' title='Blogger'>Agus Purwantoro</a>
   </footer>
   </footer>
   </div>
