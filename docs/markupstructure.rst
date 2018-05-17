@@ -90,13 +90,6 @@ This is a basic markup structure, we need to add this markup to Blogger and save
   </b:section>
   </header>
 
-  <nav id='navigation'>
-  <ul>
-  <li><a href=''>Home</a></li>
-  <li><a href=''>About</a></li>
-  </ul>
-  </nav>
-
   <article id='article-wrapper'>
   <b:section class='main' id='main'>
   <b:widget id='Blog1' locked='true' title='Blog Posting' type='Blog'></b:widget>
