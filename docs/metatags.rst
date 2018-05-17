@@ -88,6 +88,7 @@ here it's:
 
 .. code:: xml
 
+  <meta charset='UTF-8'/>
   <meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
   <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
   <meta content='blogger' name='generator'/>
@@ -122,8 +123,17 @@ Here's the full of code:
   <!DOCTYPE html>
   <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr' xmlns:og='http://ogp.me/ns#'>
   <head>
-  <meta charset='UTF-8'/>
-  
+
+  <link expr:href='data:blog.canonicalUrl' rel='canonical'/>
+
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"> </script>
+  <![endif]-->
+  <meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
+  <meta content='text/html;charset=UTF-8' http-equiv='Content-Type'/>
+  <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/> 
+  <b:include data='blog' name='all-head-content'/>
+
   <!-- Blogger Optimized Meta Tags -->
   <link expr:href='data:blog.homepageUrl + &quot;favicon.ico&quot;' rel='icon' type='image/x-icon'/>
   <link expr:href='data:blog.url' rel='canonical'/>
@@ -151,6 +161,7 @@ Here's the full of code:
   <b:if cond='data:blog.pageType == &quot;index&quot;'><b:if cond='data:blog.url != data:blog.homepageUrl'><title><data:blog.pageTitle/> - All Post</title></b:if></b:if>
 
   <!-- SEO Meta Tag -->
+  <meta charset='UTF-8'/>
   <meta content='width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1' name='viewport'/>
   <meta content='IE=edge,chrome=1' http-equiv='X-UA-Compatible'/>
   <meta content='blogger' name='generator'/>
