@@ -37,15 +37,15 @@ This is a basic xml blogger markup structure.
 
    <style type='text/css'>
    /*
-   -----------------------------------------------
-   Blogger Template Style
-   Name		: Basic Blogger Template
-   Designer	: Agus Purwantoro
-   Release		: April 2018
-   Version		: 1.0
-   License		: MIT
-   Email		: me@aguspurwantoro.com
-   -----------------------------------------------
+  -----------------------------------------------
+  Blogger Template Style
+  Name         : Basic Blogger Template
+  Designer     : Agus Purwantoro
+  Release      : April 2018
+  Version      : 1.0
+  License      : MIT
+  Email        : me@aguspurwantoro.com
+  -----------------------------------------------
    Thanks to:
    - Eric Meyer (CSS Reset)
    */
@@ -120,15 +120,15 @@ Here a final layout with schema markup.
 
    <style type='text/css'>
    /*
-   -----------------------------------------------
-   Blogger Template Style
-   Name		: Basic Blogger Template
-   Designer	: Agus Purwantoro
-   Release		: April 2018
-   Version		: 1.0
-   License		: MIT
-   Email		: me@aguspurwantoro.com
-   -----------------------------------------------
+  -----------------------------------------------
+  Blogger Template Style
+  Name         : Basic Blogger Template
+  Designer     : Agus Purwantoro
+  Release      : April 2018
+  Version      : 1.0
+  License      : MIT
+  Email        : me@aguspurwantoro.com
+  -----------------------------------------------
    Thanks to:
    - Eric Meyer (CSS Reset)
    */
