@@ -1,7 +1,6 @@
 # Basic Blogger Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Documentation Status](https://readthedocs.org/projects/basic-blogger-template/badge/?version=latest)](http://basic-blogger-template.readthedocs.io/en/latest/?badge=latest) 
-[![Basic Blogger Template](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](https://github.com/meagusp/basic-blogger-template/blob/master/cleantemplate.xml)
 
 This template is built from scratch with schema markup,  i use schema because this help search engine understand the part of the website structure and help indexing in search engine. And i use open graph protocol for help social media i.e facebook to scraping and make preview for blog posting.
 
